@@ -1,8 +1,12 @@
-.searchform {
-  width: 300px;
-  padding: 20px;
-  display: block;
-  border: 1px solid #477405;
-  margin-bottom: 20px;
-  margin: 20px auto;
+.container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  background-color: transparent;
+  border: transparent;
+  width: 200px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
 }

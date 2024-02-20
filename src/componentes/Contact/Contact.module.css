@@ -1,0 +1,11 @@
+.text {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: flex;
+  margin: auto;
+  margin-bottom: 10px;
+  border: transparent;
+}

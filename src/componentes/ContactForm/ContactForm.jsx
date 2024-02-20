@@ -35,7 +35,7 @@ export default function ContactForm() {
         }}
       >
         <Form className={css.form}>
-          <div className={css.contactform}>
+          <div className={css.container}>
             <div className={css.labelContainer}>
               <label htmlFor={nameId}>Name</label>
               <Field className={css.input} type="text" id={nameId} name="name" />
